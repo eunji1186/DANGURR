@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+@import "https:.germanfrelo.github.io/base-css-stylesheet/base.css" layer(base);
+@import "https://codepen.io/germanfrelo/pen/mdMYKza.css" layer(styles);
+
+:root{
+	--page-max-inline-size: 100%;
+}
+
+body{
+	padding-block: 2rem;
+}
