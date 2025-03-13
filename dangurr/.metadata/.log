@@ -4105,3 +4105,9 @@ Java Model Exception: Error in Java Model (code 979): Invalid path: '/DANGURR/sr
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
 !SUBENTRY 1 org.eclipse.jdt.core 4 979 2025-03-14 00:07:39.359
 !MESSAGE Invalid path: '/DANGURR/src/main/webapp/main.jsp'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-03-14 00:16:29.552
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-03-14 00:16:29.563
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!

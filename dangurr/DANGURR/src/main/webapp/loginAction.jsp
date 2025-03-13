@@ -25,7 +25,7 @@
             pstmt.setString(2, password);
             rs = pstmt.executeQuery();
             
-			if(id.equals("94336") && password.equals("2438")){
+			if(id.equals("dang94336") && password.equals("dangbbang2438")){
 				session.setAttribute("id", id);
 				session.setAttribute("password", password);
 				
